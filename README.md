@@ -1,8 +1,10 @@
-## Hi there 👋 
+
 # Hi 👋, I'm Thanh Huy, I'm a new student in colleague!
 
 - 🔭 I'm currently studying on **FPT University Hanoi**
 - 🌱 I'm currently learning **Javascript, Typescript, Kotlin**
+
+### I use Github to try something shit for my phone like build patched kermel, find something tuff, and I think in colleague will need it, so if you see i committed in my repo like shiet or so stupid, please ignore it 🥀   
 
 ## More about me!
 - I'm eightine, male. Now I'm straight btw!
@@ -13,10 +15,11 @@
 - Hobby? I like listen to music, watch some movie, and watch pretti gurl in Instagram
 - As know as: trnthanhhuy(2023 - 2025), huy076b2(2018 - 2023).
 
-<h3 align="left">You can find me at:3</h3>
-<p align="left">
-<a href="https://github.com/staciamarchxix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="staciamarchxix" height="30" width="40" /></a>
-<a href="https://instagram.com/irl.elmhuyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irl.elmhuyy" height="30" width="40" /></a> <a href="https://discord.com/users/irl.elmhuyy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/staciamarchxix" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+### You can find me at:3
+- Instagram: @irl.elmhuyy (main social, I will post some skibidi pics at here)
+- Telegram: @staciamarchxix (main messeage app, if you have a question, direct messeage at here)
+- Discord: @irl.elmhuyy (sometime i will use Discord to play game with friend and sometime maybe girl 😋)
+- Facebook: @staciamarchxix (another social...)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
