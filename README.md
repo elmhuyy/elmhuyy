@@ -13,12 +13,12 @@
 - My first language is Vietnamese 🇻🇳, second is English 🇺🇸 and _wata cau ni ma_ 😡
 - Sometime I will be cringe asf, sorri.
 - Hobby? I like listen to music, watch some movie, and watch pretti gurl in Instagram
-- As know as: trnthanhhuy (2023 - 2025), huy076b2 (2018 - 2023).
+- As know as: irl.elmhuyy(2025 - 2026) trnthanhhuy (2023 - 2025), huy076b2 (2018 - 2023).
 
 ### You can find me at:3
-- Instagram: @irl.elmhuyy (main social, I will post some skibidi pics at here)
+- Instagram: @elmhuyy (main social, I will post some skibidi pics at here)
 - Telegram: @elmhuyy (main messeage app, if you have a question, direct messeage at here)
-- Discord: @irl.elmhuyy (sometime i will use Discord to play game with friend and sometime maybe girl 😋)
+- Discord: @elmhuyy (sometime i will use Discord to play game with friend and sometime maybe girl 😋)
 - Facebook: @staciamarchxix (another social...)
 
 <h3 align="left">Languages and Tools:</h3>
