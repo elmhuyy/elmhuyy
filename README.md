@@ -8,7 +8,7 @@
 
 ### More about me!
 - I'm eightine, male. Now I'm straight btw!
-- You can call me "em Huy", "staciamarchxix" or my riel name but I prefer nickname in front.
+- You can call me "em Huy" or my riel name but I prefer nickname in front.
 - I was born in July, 30th, 2007 (you know, i am eightine but i look like skid 😢)
 - My first language is Vietnamese 🇻🇳, second is English 🇺🇸 and _wata cau ni ma_ 😡
 - Sometime I will be cringe asf, sorri.
