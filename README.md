@@ -16,10 +16,10 @@
 - As know as: irl.elmhuyy(2025 - 2026) trnthanhhuy (2023 - 2025), huy076b2 (2018 - 2023).
 
 ### You can find me at:3
-- Instagram: @elmhuyy (main social, I will post some skibidi pics at here)
-- Telegram: @elmhuyy (main messeage app, if you have a question, direct messeage at here)
-- Discord: @elmhuyy (sometime i will use Discord to play game with friend and sometime maybe girl 😋)
-- Facebook: @staciamarchxix (another social...)
+- Instagram: [@elmhuyy](https://www.instagram.com/elmhuyy/), [@prv.elmhuyy](https://www.instagram.com/prv.elmhuyy/) (main social, I will post some skibidi pics at here)
+- Telegram: [@elmhuyy](https://t.me/elmhuyy/) (main messeage app, if you have a question, direct messeage at here)
+- Discord: [@elmhuyy](https://discordapp.com/users/1439950259529711698/) (sometime i will use Discord to play game with friend and sometime maybe girl 😋)
+- Facebook: [@staciamarchxix](https://facebook.com/stacimarchxix/) (another social...)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
